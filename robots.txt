@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://slsika.github.io/WGd/sitemap.WGd.gz
